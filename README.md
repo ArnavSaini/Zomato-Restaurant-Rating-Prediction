@@ -45,6 +45,7 @@ URL, Address and phone are not rerquired so we delete these columns.
 # Model Training
 
 We will use Supervised Machine Learning Regression Algorithums for the model building
+
 Models Used :
 1) Random Forest (R2 Score: 86%)
 2) Extra Tree Regressor (R2 Score: 90%)
