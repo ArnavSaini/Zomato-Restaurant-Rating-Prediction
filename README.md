@@ -50,7 +50,9 @@ Models Used :
 2) Extra Tree Regressor (R2 Score: 90%)
 
 Mean Absolute Error: 0.05453119552879585
+
 Mean Squared Error: 0.018097247846268164
+
 Root Mean Squared Error: 0.13452601178310522
 
 # Model Deployment
