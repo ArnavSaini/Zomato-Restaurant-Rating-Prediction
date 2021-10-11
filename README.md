@@ -23,3 +23,14 @@ Most common type of restaurant is Quick Bites
 ![eda5](https://user-images.githubusercontent.com/87753242/136757337-0c6147d4-2343-449e-a4c0-5a86891ae4fb.png)
 
 Number of restaurants with online and table booking facilities
+Graph shows us that not much restaurant provide table booking facility.
+
+![eda6](https://user-images.githubusercontent.com/87753242/136770082-de0f97d4-180a-4f13-96ef-5d89bfab4460.png)
+Table Booking vs Rate
+Restaurants that provide table booking have higher rating.
+
+![eda7](https://user-images.githubusercontent.com/87753242/136770184-57f1de0d-659c-4777-9339-843318a357e9.png)
+Rating based on Location
+
+![eda8](https://user-images.githubusercontent.com/87753242/136770408-194a5d42-d5ed-4749-8575-6b5634878720.png)
+Rating based on type of restaurant
