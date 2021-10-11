@@ -7,7 +7,7 @@ various Zomato Restaurants to predict their respective Ratings based on certain
 features.
 
 # Dataset
-
+![zomato_csv](https://user-images.githubusercontent.com/87753242/136779926-06f8fc05-3c0c-4264-942a-0ab7ad15a223.png)
 
 # Exploratory Data Analysis (EDA)
 ![eda1](https://user-images.githubusercontent.com/87753242/136730675-003bba71-d8ed-4bee-a7b8-e152deec01dd.png)
