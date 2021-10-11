@@ -67,4 +67,6 @@ Tools used in deployment
 3) Putty gen
 4) API is designed in HTML and CSS
 
+Online Link: http://ec2-18-118-186-20.us-east-2.compute.amazonaws.com:8080
+
 ![predicted](https://user-images.githubusercontent.com/87753242/136776370-c5e6715a-aafa-4433-8f25-24e5721b9519.png)
