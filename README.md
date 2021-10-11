@@ -37,3 +37,31 @@ Rating based on Location
 ![eda8](https://user-images.githubusercontent.com/87753242/136770408-194a5d42-d5ed-4749-8575-6b5634878720.png)
 
 Rating based on type of restaurant
+
+# Feature Engineering and Feature Selection
+
+URL, Address and phone are not rerquired so we delete these columns.
+
+# Model Training
+
+We will use Supervised Machine Learning Regression Algorithums for the model building
+Models Used :
+1) Random Forest (R2 Score: 86%)
+2) Extra Tree Regressor (R2 Score: 90%)
+
+Mean Absolute Error: 0.05453119552879585
+Mean Squared Error: 0.018097247846268164
+Root Mean Squared Error: 0.13452601178310522
+
+# Model Deployment
+
+![predicted1](https://user-images.githubusercontent.com/87753242/136776312-b970f827-fa5e-42b3-b133-10b42214da1c.png)
+
+Model is deployed on Amazon Web Services colud platform
+Tools used in deployment
+1) Flask
+2) Putty
+3) Putty gen
+4) API is designed in HTML and CSS
+
+![predicted](https://user-images.githubusercontent.com/87753242/136776370-c5e6715a-aafa-4433-8f25-24e5721b9519.png)
