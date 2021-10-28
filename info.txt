@@ -1,0 +1,29 @@
+2021-10-27 11:04-09 INFO- * Running on http://0.0.0.0:8080/ (Press CTRL+C to quit)
+2021-10-27 11:04-18 INFO-Someone is accessing index.html!!!
+2021-10-27 11:04-18 INFO-122.173.29.225 - - [27/Oct/2021 11:04:18] "GET / HTTP/1.1" 200 -
+2021-10-27 11:04-20 INFO-122.173.29.225 - - [27/Oct/2021 11:04:20] "GET /static/css/style.css HTTP/1.1" 200 -
+2021-10-27 11:04-21 INFO-122.173.29.225 - - [27/Oct/2021 11:04:21] "GET /favicon.ico HTTP/1.1" 404 -
+2021-10-27 11:04-53 INFO-122.173.29.225 - - [27/Oct/2021 11:04:53] "POST /predict HTTP/1.1" 400 -
+2021-10-27 11:07-10 INFO- * Running on http://0.0.0.0:8080/ (Press CTRL+C to quit)
+2021-10-27 11:07-22 INFO-122.173.29.225 - - [27/Oct/2021 11:07:22] "POST /predict HTTP/1.1" 400 -
+2021-10-27 11:18-17 INFO- * Running on http://0.0.0.0:8080/ (Press CTRL+C to quit)
+2021-10-27 11:18-25 INFO-Someone is accessing index.html!!!
+2021-10-27 11:18-25 INFO-122.173.29.225 - - [27/Oct/2021 11:18:25] "GET / HTTP/1.1" 200 -
+2021-10-27 11:18-59 INFO-122.173.29.225 - - [27/Oct/2021 11:18:59] "POST /predict HTTP/1.1" 400 -
+2021-10-27 11:22-57 INFO- * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-27 11:22-57 INFO- * Restarting with stat
+2021-10-27 11:22-58 WARNING- * Debugger is active!
+2021-10-27 11:22-59 INFO- * Debugger PIN: 138-874-918
+2021-10-27 11:24-31 INFO- * Detected change in '/home/ubuntu/app.py', reloading
+2021-10-27 11:24-31 INFO- * Restarting with stat
+2021-10-27 11:24-38 INFO- * Running on http://0.0.0.0:8080/ (Press CTRL+C to quit)
+2021-10-27 11:24-42 INFO-Successfully retrieved information from user...! 
+2021-10-27 11:24-42 INFO-Database connection established..!
+2021-10-27 11:24-44 INFO-data inserted
+2021-10-27 11:24-44 INFO-successfully predicted
+2021-10-27 11:24-45 INFO-122.173.29.225 - - [27/Oct/2021 11:24:45] "POST /predict HTTP/1.1" 200 -
+2021-10-27 11:25-17 INFO-Successfully retrieved information from user...! 
+2021-10-27 11:25-17 INFO-Database connection established..!
+2021-10-27 11:25-19 INFO-data inserted
+2021-10-27 11:25-19 INFO-successfully predicted
+2021-10-27 11:25-19 INFO-122.173.29.225 - - [27/Oct/2021 11:25:19] "POST /predict HTTP/1.1" 200 -
