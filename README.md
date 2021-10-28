@@ -48,7 +48,7 @@ We will use Supervised Machine Learning Regression Algorithums for the model bui
 
 Models Used :
 1) Random Forest (R2 Score: 86%)
-2) Extra Tree Regressor (R2 Score: 90%)
+2) Extra Tree Regressor (R2 Score: 91%)
 
 Mean Absolute Error: 0.05453119552879585
 
@@ -59,6 +59,9 @@ Root Mean Squared Error: 0.13452601178310522
 # Model Deployment
 
 ![predicted1](https://user-images.githubusercontent.com/87753242/136776312-b970f827-fa5e-42b3-b133-10b42214da1c.png)
+
+Database Used for storing Data
+1) MongoDB
 
 Model is deployed on Amazon Web Services colud platform
 Tools used in deployment
